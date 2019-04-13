@@ -4,25 +4,25 @@
     {
       "confName": "SEC",
       "confFullName": "SEC",
-      "confPrestige" : "95",
+      "confPrestige" : "90",
       "confTeams": [
         {
           "name": "Alabama",
           "abbreviation": "ALA",
-          "prestige": "94",
+          "prestige": "92",
           "state": "Alabama",
           "headCoach" : {
             "contractLength" : "10",
             "startYear" : "2017",
             "age" : "67",
-            "ratOff" : "95",
-            "cumulativePrestige" : "95",
-            "ratDef" : "95",
-            "ratPot" : "95",
-            "ratTalent" : "95",
-            "baselinePrestige" : "95",
-            "ratDiscipline" : "95",
-            "ratOvr" : "95",
+            "ratOff" : "92",
+            "cumulativePrestige" : "92",
+            "ratDef" : "92",
+            "ratPot" : "92",
+            "ratTalent" : "92",
+            "baselinePrestige" : "92",
+            "ratDiscipline" : "92",
+            "ratOvr" : "92",
             "name" : "Nick Saban",
             "contractYear" : "2"
           },
@@ -31,20 +31,20 @@
         {
           "name": "Georgia",
           "abbreviation": "UGA",
-          "prestige": "92",
+          "prestige": "90",
           "state": "Georgia",
           "headCoach" : {
             "contractLength" : "10",
             "startYear" : "2017",
             "age" : "43",
-            "ratOff" : "95",
-            "cumulativePrestige" : "95",
-            "ratDef" : "95",
-            "ratPot" : "95",
-            "ratTalent" : "95",
-            "baselinePrestige" : "95",
-            "ratDiscipline" : "95",
-            "ratOvr" : "95",
+            "ratOff" : "88",
+            "cumulativePrestige" : "88",
+            "ratDef" : "88",
+            "ratPot" : "88",
+            "ratTalent" : "88",
+            "baselinePrestige" : "88",
+            "ratDiscipline" : "88",
+            "ratOvr" : "88",
             "name" : "Kirby Smart",
             "contractYear" : "2"
           },
@@ -73,14 +73,14 @@
             "contractLength" : "10",
             "startYear" : "2017",
             "age" : "53",
-            "ratOff" : "90",
-            "cumulativePrestige" : "90",
-            "ratDef" : "90",
-            "ratPot" : "90",
-            "ratTalent" : "90",
-            "baselinePrestige" : "90",
-            "ratDiscipline" : "90",
-            "ratOvr" : "90",
+            "ratOff" : "85",
+            "cumulativePrestige" : "85",
+            "ratDef" : "85",
+            "ratPot" : "85",
+            "ratTalent" : "85",
+            "baselinePrestige" : "85",
+            "ratDiscipline" : "85",
+            "ratOvr" : "85",
             "name" : "Jimbo Fisher",
             "contractYear" : "2"
           },
@@ -95,14 +95,14 @@
             "contractLength" : "10",
             "startYear" : "2017",
             "age" : "57",
-            "ratOff" : "90",
-            "cumulativePrestige" : "90",
-            "ratDef" : "90",
-            "ratPot" : "90",
-            "ratTalent" : "90",
-            "baselinePrestige" : "90",
-            "ratDiscipline" : "90",
-            "ratOvr" : "90",
+            "ratOff" : "80",
+            "cumulativePrestige" : "80",
+            "ratDef" : "80",
+            "ratPot" : "80",
+            "ratTalent" : "80",
+            "baselinePrestige" : "80",
+            "ratDiscipline" : "80",
+            "ratOvr" : "80",
             "name" : "Ed Orgeron",
             "contractYear" : "2"
           },
@@ -131,14 +131,14 @@
             "contractLength" : "10",
             "startYear" : "2017",
             "age" : "51",
-            "ratOff" : "90",
-            "cumulativePrestige" : "90",
-            "ratDef" : "90",
-            "ratPot" : "90",
-            "ratTalent" : "90",
-            "baselinePrestige" : "90",
-            "ratDiscipline" : "90",
-            "ratOvr" : "90",
+            "ratOff" : "80",
+            "cumulativePrestige" : "80",
+            "ratDef" : "80",
+            "ratPot" : "80",
+            "ratTalent" : "80",
+            "baselinePrestige" : "80",
+            "ratDiscipline" : "80",
+            "ratOvr" : "80",
             "name" : "Mark Stoops",
             "contractYear" : "2"
           },
@@ -156,12 +156,12 @@
     {
       "confName": "B1G",
       "confFullName": "Big Ten",
-      "confPrestige" : "90",
+      "confPrestige" : "80",
       "confTeams": [
         {
           "name": "Ohio State",
           "abbreviation": "OSU",
-          "prestige": "92",
+          "prestige": "90",
           "state": "Ohio",
           "headCoach" : {
             "age" : "40",
@@ -172,20 +172,20 @@
         {
           "name": "Michigan",
           "abbreviation": "MICH",
-          "prestige": "88",
+          "prestige": "85",
           "state": "Michigan",
           "headCoach" : {
             "contractLength" : "10",
             "startYear" : "2017",
             "age" : "55",
-            "ratOff" : "95",
-            "cumulativePrestige" : "95",
-            "ratDef" : "95",
-            "ratPot" : "95",
-            "ratTalent" : "95",
-            "baselinePrestige" : "95",
-            "ratDiscipline" : "95",
-            "ratOvr" : "95",
+            "ratOff" : "87",
+            "cumulativePrestige" : "87",
+            "ratDef" : "87",
+            "ratPot" : "87",
+            "ratTalent" : "87",
+            "baselinePrestige" : "87",
+            "ratDiscipline" : "87",
+            "ratOvr" : "87",
             "name" : "Jim Harbaugh",
             "contractYear" : "2"
           },
@@ -316,7 +316,7 @@
     {
       "confName": "ACC",
       "confFullName": "ACC",
-      "confPrestige" : "75",
+      "confPrestige" : "87",
       "confTeams": [
         {
           "name": "Virginia",
@@ -352,14 +352,29 @@
             "name" : "Dabo Swinney",
             "contractYear" : "2"
           },
-          "rival": "FSU"
+          "rival": "UNC"
         },
         {
           "name": "Miami",
           "abbreviation": "MIA",
-          "prestige": "80",
+          "prestige": "85",
           "state": "Florida",
-          "rival": "UNC"
+	  "headCoach" : {
+            "contractLength" : "5",
+            "startYear" : "2017",
+            "age" : "44",
+            "ratOff" : "95",
+            "cumulativePrestige" : "95",
+            "ratDef" : "95",
+            "ratPot" : "95",
+            "ratTalent" : "95",
+            "baselinePrestige" : "95",
+            "ratDiscipline" : "95",
+            "ratOvr" : "95",
+            "name" : "Manny Diaz",
+            "contractYear" : "1"
+          },
+          "rival": "FSU"
         },
         {
           "name": "North Carolina",
@@ -381,7 +396,7 @@
             "name" : "Mack Brown",
             "contractYear" : "2"
           },
-          "rival": "MIA"
+          "rival": "CLEM"
         },
         {
           "name": "Georgia Tech",
@@ -393,14 +408,14 @@
         {
           "name": "Virginia Tech",
           "abbreviation": "VT",
-          "presitge": "45",
+          "presitge": "65",
           "state": "Virginia",
           "rival": "UVA"
         },
         {
           "name": "Pittsburgh",
           "abbreviation": "PITT",
-          "prestige": "50",
+          "prestige": "60",
           "state": "Pennsylvania",
           "rival": "GT"
         },
@@ -416,7 +431,22 @@
           "abbreviation": "FSU",
           "prestige": "55",
           "state": "Florida",
-          "rival": "CLEM"
+	  "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2017",
+            "age" : "50",
+            "ratOff" : "65",
+            "cumulativePrestige" : "65",
+            "ratDef" : "65",
+            "ratPot" : "65",
+            "ratTalent" : "65",
+            "baselinePrestige" : "65",
+            "ratDiscipline" : "65",
+            "ratOvr" : "65",
+            "name" : "Willie Taggart",
+            "contractYear" : "2"
+          },
+          "rival": "MIA"
         }
       ]
     },
@@ -428,7 +458,7 @@
         {
           "name": "Oklahoma",
           "abbreviation": "OKLA",
-          "prestige": "92",
+          "prestige": "90",
           "state": "Oklahoma",
           "headCoach" : {
             "contractLength" : "10",
@@ -450,7 +480,7 @@
         {
           "name": "Texas",
           "abbreviation": "TEX",
-          "prestige": "90",
+          "prestige": "85",
           "state": "Texas",
           "headCoach" : {
             "contractLength" : "10",
@@ -699,7 +729,7 @@
         {
           "name": "Notre Dame",
           "abbreviation": "ND",
-          "prestige": "92",
+          "prestige": "80",
           "state": "Indiana",
           "rival": "BYU"
         },
@@ -1234,6 +1264,10 @@
           "abbreviation": "YSU",
           "prestige": "25",
           "state": "Ohio",
+	  "headCoach" : {
+            "age" : "57",
+            "name" : "Bo Pellini"
+          },
           "rival": "DAY"
         },
         {
