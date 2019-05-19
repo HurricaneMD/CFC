@@ -55,6 +55,20 @@
           "abbreviation": "FLA",
           "prestige": "85",
           "state": "Florida",
+	  "headCoach" : {
+            "contractLength" : "10",
+            "startYear" : "2017",
+            "age" : "45",
+            "ratOff" : "83",
+            "cumulativePrestige" : "75",
+            "ratDef" : "75",
+            "ratPot" : "75",
+            "ratTalent" : "75",
+            "baselinePrestige" : "75",
+            "ratDiscipline" : "75",
+            "ratOvr" : "75",
+            "name" : "Dan Mullen",
+            "contractYear" : "4"
           "rival": "UGA"
         },
         {
@@ -149,6 +163,20 @@
           "abbreviation": "AUB",
           "prestige": "75",
           "state": "Alabama",
+	  "headCoach" : {
+            "contractLength" : "5",
+            "startYear" : "2017",
+            "age" : "51",
+            "ratOff" : "70",
+            "cumulativePrestige" : "70",
+            "ratDef" : "70",
+            "ratPot" : "70",
+            "ratTalent" : "70",
+            "baselinePrestige" : "70",
+            "ratDiscipline" : "70",
+            "ratOvr" : "70",
+            "name" : "Gus Malzahn",
+            "contractYear" : "2"
           "rival": "ALA"
         }
       ]
@@ -316,7 +344,7 @@
     {
       "confName": "ACC",
       "confFullName": "ACC",
-      "confPrestige" : "87",
+      "confPrestige" : "90",
       "confTeams": [
         {
           "name": "Virginia",
@@ -487,13 +515,13 @@
             "startYear" : "2017",
             "age" : "43",
             "ratOff" : "90",
-            "cumulativePrestige" : "90",
-            "ratDef" : "90",
-            "ratPot" : "90",
-            "ratTalent" : "90",
-            "baselinePrestige" : "90",
-            "ratDiscipline" : "90",
-            "ratOvr" : "90",
+            "cumulativePrestige" : "80",
+            "ratDef" : "80",
+            "ratPot" : "80",
+            "ratTalent" : "80",
+            "baselinePrestige" : "80",
+            "ratDiscipline" : "80",
+            "ratOvr" : "80",
             "name" : "Tom Herman",
             "contractYear" : "2"
           },
@@ -508,14 +536,14 @@
             "contractLength" : "10",
             "startYear" : "2017",
             "age" : "39",
-            "ratOff" : "85",
-            "cumulativePrestige" : "85",
-            "ratDef" : "85",
-            "ratPot" : "85",
-            "ratTalent" : "85",
-            "baselinePrestige" : "85",
-            "ratDiscipline" : "85",
-            "ratOvr" : "85",
+            "ratOff" : "80",
+            "cumulativePrestige" : "80",
+            "ratDef" : "80",
+            "ratPot" : "80",
+            "ratTalent" : "80",
+            "baselinePrestige" : "80",
+            "ratDiscipline" : "80",
+            "ratOvr" : "80",
             "name" : "Matt Campbell",
             "contractYear" : "2"
           },
@@ -1002,7 +1030,7 @@
         {
           "name": "Boise State",
           "abbreviation": "BSU",
-          "prestige": "45",
+          "prestige": "75",
           "state": "Idaho",
           "rival": "WYO"
         },
