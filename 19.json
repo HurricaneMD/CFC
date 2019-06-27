@@ -5,7 +5,7 @@
 "confName":"ACC",
 "confPrestige":"95",
 "confTeams" : [
-{"name":"Clemson Tigers","state":"South Carolina","abbreviation":"CLEM","rival":"SCAR","prestige":"95","headCoach":{"name":"Dabo Swinney","age":"49","homeState":"Alabama","contractYear":"12","startYear":"2008","contractLength":"15","ratOvr":"94","ratOff":"93","ratDef":"98","ratTalent":"95","ratDiscipline":"97"}},
+{"name":"Clemson Tigers","state":"South Carolina","abbreviation":"CLEM","rival":"UVA","prestige":"95","headCoach":{"name":"Dabo Swinney","age":"49","homeState":"Alabama","contractYear":"12","startYear":"2008","contractLength":"15","ratOvr":"94","ratOff":"93","ratDef":"98","ratTalent":"95","ratDiscipline":"97"}},
 {"name":"Georgia Tech Yellow Jackets","state":"Georgia","abbreviation":"GT","rival":"LOU","prestige":"80","headCoach":{"name":"Geoff Collins","age":"48","homeState":"North Carolina","contractYear":"1","startYear":"2019","contractLength":"5","ratOvr":"78","ratOff":"81","ratDef":"78","ratTalent":"81","ratDiscipline":"86"}},
 {"name":"North Carolina Tar Heels","state":"North Carolina","abbreviation":"UNC","rival":"DUKE","prestige":"80","headCoach":{"name":"Mack Brown","age":"67","homeState":"Florida","contractYear":"1","startYear":"2019","contractLength":"6","ratOvr":"79","ratOff":"82","ratDef":"80","ratTalent":"77","ratDiscipline":"77"}},
 {"name":"Miami FL Hurricanes","state":"Florida","abbreviation":"MIAF","rival":"FSU","prestige":"90","headCoach":{"name":"Manny Diaz","age":"45","homeState":"Florida","contractYear":"1","startYear":"2019","contractLength":"4","ratOvr":"89","ratOff":"87","ratDef":"89","ratTalent":"92","ratDiscipline":"92"}},
@@ -14,7 +14,7 @@
 {"name":"Louisville Cardinals","state":"Kentucky","abbreviation":"LOU","rival":"GT","prestige":"70","headCoach":{"name":"Scott Satterfield","age":"46","homeState":"North Carolina","contractYear":"1","startYear":"2019","contractLength":"6","ratOvr":"83","ratOff":"89","ratDef":"76","ratTalent":"85","ratDiscipline":"86"}},
 {"name":"NC State Wolfpack","state":"North Carolina","abbreviation":"NCST","rival":"WAKE","prestige":"65","headCoach":{"name":"Dave Doeren","age":"47","homeState":"Iowa","contractYear":"7","startYear":"2013","contractLength":"12","ratOvr":"81","ratOff":"89","ratDef":"78","ratTalent":"85","ratDiscipline":"86"}},
 {"name":"Wake Forest Demon Deacons","state":"North Carolina","abbreviation":"WAKE","rival":"NCST","prestige":"65","headCoach":{"name":"Dave Clawson","age":"51","homeState":"New York","contractYear":"6","startYear":"2014","contractLength":"10","ratOvr":"81","ratOff":"86","ratDef":"80","ratTalent":"82","ratDiscipline":"82"}},
-{"name":"Virginia Cavaliers","state":"Virginia","abbreviation":"UVA","rival":"CLEM","prestige":"55","headCoach":{"name":"Bronco Mendenhall","age":"53","homeState":"Oregon","contractYear":"4","startYear":"2016","contractLength":"8","ratOvr":"75","ratOff":"70","ratDef":"82","ratTalent":"79","ratDiscipline":"75"}}
+{"name":"Virginia Cavaliers","state":"Virginia","abbreviation":"UVA","rival":"CLEM","prestige":"60","headCoach":{"name":"Bronco Mendenhall","age":"53","homeState":"Oregon","contractYear":"4","startYear":"2016","contractLength":"8","ratOvr":"75","ratOff":"70","ratDef":"82","ratTalent":"79","ratDiscipline":"75"}}
 ]
 },
 {
@@ -90,8 +90,8 @@
 "confName":"IND",
 "confPrestige":"75",
 "confTeams" : [
-{"name":"Notre Dame Fighting Irish","state":"Indiana","abbreviation":"ND","rival":"PSU","prestige":"95","headCoach":{"name":"Brian Kelly","age":"57","homeState":"Massacusetts","contractYear":"10","startYear":"2010","contractLength":"14","ratOvr":"91","ratOff":"88","ratDef":"92","ratTalent":"95","ratDiscipline":"87"}},
-{"name":"Penn State Nittany Lions","state":"Pennsylvania","abbreviation":"PSU","rival":"ND","prestige":"95","headCoach":{"name":"James Franklin","age":"47","homeState":"Pennsylvania","contractYear":"6","startYear":"2014","contractLength":"11","ratOvr":"91","ratOff":"90","ratDef":"89","ratTalent":"94","ratDiscipline":"89"}},
+{"name":"Notre Dame Fighting Irish","state":"Indiana","abbreviation":"ND","rival":"PSU","prestige":"90","headCoach":{"name":"Brian Kelly","age":"57","homeState":"Massacusetts","contractYear":"10","startYear":"2010","contractLength":"14","ratOvr":"91","ratOff":"88","ratDef":"92","ratTalent":"95","ratDiscipline":"87"}},
+{"name":"Penn State Nittany Lions","state":"Pennsylvania","abbreviation":"PSU","rival":"ND","prestige":"90","headCoach":{"name":"James Franklin","age":"47","homeState":"Pennsylvania","contractYear":"6","startYear":"2014","contractLength":"11","ratOvr":"91","ratOff":"90","ratDef":"89","ratTalent":"94","ratDiscipline":"89"}},
 {"name":"Maryland Terrapins","state":"Maryland","abbreviation":"MARY","rival":"MAR","prestige":"70","headCoach":{"name":"Mike Locksley","age":"49","homeState":"Maryland","contractYear":"1","startYear":"2019","contractLength":"4","ratOvr":"76","ratOff":"79","ratDef":"76","ratTalent":"78","ratDiscipline":"80"}},
 {"name":"Army Black Knights","state":"New York","abbreviation":"ARMY","rival":"NAVY","prestige":"85","headCoach":{"name":"Jeff Monken","age":"52","homeState":"Illinois","contractYear":"6","startYear":"2014","contractLength":"9","ratOvr":"71","ratOff":"72","ratDef":"72","ratTalent":"73","ratDiscipline":"77"}},
 {"name":"Navy Midshipmen","state":"Maryland","abbreviation":"NAVY","rival":"ARMY","prestige":"85","headCoach":{"name":"Ken Niumatalolo","age":"53","homeState":"Hawaii","contractYear":"13","startYear":"2007","contractLength":"18","ratOvr":"77","ratOff":"82","ratDef":"76","ratTalent":"72","ratDiscipline":"77"}},
