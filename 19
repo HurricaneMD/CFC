@@ -1,0 +1,246 @@
+{
+"conferences" : [
+{
+"confFullName":"Atlantic Coast",
+"confName":"ACC",
+"confPrestige":"90",
+"confTeams" : [
+{"name":"Clemson Tigers","state":"South Carolina","abbreviation":"CLEM","rival":"SCAR","prestige":"95","headCoach":{"name":"Dabo Swinney","age":"49","homeState":"Alabama","contractYear":"12","startYear":"2008","contractLength":"15","ratOvr":"94","ratOff":"93","ratDef":"98","ratTalent":"95","ratDiscipline":"97"}},
+{"name":"Georgia Tech Yellow Jackets","state":"Georgia","abbreviation":"GT","rival":"LOU","prestige":"80","headCoach":{"name":"Geoff Collins","age":"48","homeState":"North Carolina","contractYear":"1","startYear":"2019","contractLength":"5","ratOvr":"78","ratOff":"81","ratDef":"78","ratTalent":"81","ratDiscipline":"86"}},
+{"name":"North Carolina Tar Heels","state":"North Carolina","abbreviation":"UNC","rival":"DUKE","prestige":"80","headCoach":{"name":"Mack Brown","age":"67","homeState":"Florida","contractYear":"1","startYear":"2019","contractLength":"6","ratOvr":"79","ratOff":"82","ratDef":"80","ratTalent":"77","ratDiscipline":"77"}},
+{"name":"South Carolina Gamecocks","state":"South Carolina","abbreviation":"SCAR","rival":"CLEM","prestige":"75","headCoach":{"name":"Will Muschamp","age":"47","homeState":"Georgia","contractYear":"4","startYear":"2016","contractLength":"7","ratOvr":"81","ratOff":"83","ratDef":"84","ratTalent":"82","ratDiscipline":"80"}},
+{"name":"Maryland Terrapins","state":"Maryland","abbreviation":"MARY","rival":"UVA","prestige":"70","headCoach":{"name":"Mike Locksley","age":"49","homeState":"Maryland","contractYear":"1","startYear":"2019","contractLength":"4","ratOvr":"76","ratOff":"79","ratDef":"76","ratTalent":"78","ratDiscipline":"80"}},
+{"name":"Duke Blue Devils","state":"North Carolina","abbreviation":"DUKE","rival":"UNC","prestige":"70","headCoach":{"name":"David Cutcliffe","age":"64","homeState":"Alabama","contractYear":"12","startYear":"2008","contractLength":"17","ratOvr":"80","ratOff":"76","ratDef":"86","ratTalent":"75","ratDiscipline":"78"}},
+{"name":"Louisville Cardinals","state":"Kentucky","abbreviation":"LOU","rival":"GT","prestige":"70","headCoach":{"name":"Scott Satterfield","age":"46","homeState":"North Carolina","contractYear":"1","startYear":"2019","contractLength":"6","ratOvr":"83","ratOff":"89","ratDef":"76","ratTalent":"85","ratDiscipline":"86"}},
+{"name":"NC State Wolfpack","state":"North Carolina","abbreviation":"NCST","rival":"WAKE","prestige":"65","headCoach":{"name":"Dave Doeren","age":"47","homeState":"Iowa","contractYear":"7","startYear":"2013","contractLength":"12","ratOvr":"81","ratOff":"89","ratDef":"78","ratTalent":"85","ratDiscipline":"86"}},
+{"name":"Wake Forest Demon Deacons","state":"North Carolina","abbreviation":"WAKE","rival":"NCST","prestige":"65","headCoach":{"name":"Dave Clawson","age":"51","homeState":"New York","contractYear":"6","startYear":"2014","contractLength":"10","ratOvr":"81","ratOff":"86","ratDef":"80","ratTalent":"82","ratDiscipline":"82"}},
+{"name":"Virginia Cavaliers","state":"Virginia","abbreviation":"UVA","rival":"MARY","prestige":"55","headCoach":{"name":"Bronco Mendenhall","age":"53","homeState":"Oregon","contractYear":"4","startYear":"2016","contractLength":"8","ratOvr":"75","ratOff":"70","ratDef":"82","ratTalent":"79","ratDiscipline":"75"}}
+]
+},
+{
+"confFullName":"Big 8",
+"confName":"BIG8",
+"confPrestige":"90",
+"confTeams" : [
+{"name":"Oklahoma Sooners","state":"Oklahoma","abbreviation":"OKLA","rival":"NEB","prestige":"95","headCoach":{"name":"Lincoln Riley","age":"35","homeState":"Texas","contractYear":"3","startYear":"2017","contractLength":"6","ratOvr":"90","ratOff":"94","ratDef":"82","ratTalent":"91","ratDiscipline":"91"}},
+{"name":"Nebraska Cornhuskers","state":"Nebraska","abbreviation":"NEB","rival":"OKLA","prestige":"90","headCoach":{"name":"Scott Frost","age":"44","homeState":"Nebraska","contractYear":"2","startYear":"2018","contractLength":"5","ratOvr":"78","ratOff":"84","ratDef":"76","ratTalent":"73","ratDiscipline":"85"}},
+{"name":"Missouri Tigers","state":"Missouri","abbreviation":"MIZZ","rival":"COL","prestige":"80","headCoach":{"name":"Barry Odom","age":"42","homeState":"Missouri","contractYear":"4","startYear":"2016","contractLength":"8","ratOvr":"83","ratOff":"90","ratDef":"78","ratTalent":"82","ratDiscipline":"94"}},
+{"name":"Oklahoma State Cowboys","state":"Oklahoma","abbreviation":"OKST","rival":"TUL","prestige":"80","headCoach":{"name":"Mike Gundy","age":"51","homeState":"Oklahoma","contractYear":"15","startYear":"2005","contractLength":"20","ratOvr":"85","ratOff":"91","ratDef":"79","ratTalent":"84","ratDiscipline":"91"}},
+{"name":"Colorado Buffaloes","state":"Colorado","abbreviation":"COL","rival":"MIZZ","prestige":"75","headCoach":{"name":"Mel Tucker","age":"47","homeState":"Wisconsin","contractYear":"1","startYear":"2019","contractLength":"5","ratOvr":"72","ratOff":"75","ratDef":"68","ratTalent":"74","ratDiscipline":"75"}},
+{"name":"Iowa State Cyclones","state":"Iowa","abbreviation":"IAST","rival":"NIU","prestige":"75","headCoach":{"name":"Matt Campbell","age":"39","homeState":"Pennsylvania","contractYear":"4","startYear":"2016","contractLength":"7","ratOvr":"79","ratOff":"76","ratDef":"85","ratTalent":"82","ratDiscipline":"80"}},
+{"name":"Kansas State Wildcats","state":"Kansas","abbreviation":"KSU","rival":"KU","prestige":"75","headCoach":{"name":"Chris Klieman","age":"51","homeState":"Iowa","contractYear":"1","startYear":"2019","contractLength":"5","ratOvr":"81","ratOff":"85","ratDef":"80","ratTalent":"78","ratDiscipline":"81"}},
+{"name":"Northern Illinois Huskies","state":"Illinois","abbreviation":"NIU","rival":"IAST","prestige":"65","headCoach":{"name":"Thomas Hammock","age":"37","homeState":"Illinois","contractYear":"1","startYear":"2019","contractLength":"6","ratOvr":"81","ratOff":"80","ratDef":"86","ratTalent":"82","ratDiscipline":"85"}},
+{"name":"Kansas Jayhawks","state":"Kansas","abbreviation":"KU","rival":"KSU","prestige":"60","headCoach":{"name":"Les Miles","age":"65","homeState":"Michigan","contractYear":"1","startYear":"2019","contractLength":"4","ratOvr":"69","ratOff":"65","ratDef":"72","ratTalent":"71","ratDiscipline":"68"}},
+{"name":"Tulsa Golden Hurricane","state":"Oklahoma","abbreviation":"TULS","rival":"OKST","prestige":"50","headCoach":{"name":"Philip Montgomery","age":"47","homeState":"Texas","contractYear":"5","startYear":"2015","contractLength":"10","ratOvr":"68","ratOff":"76","ratDef":"61","ratTalent":"67","ratDiscipline":"72"}}
+]
+},
+{
+"confFullName":"Big East",
+"confName":"BEAST",
+"confPrestige":"80",
+"confTeams" : [
+{"name":"Miami FL Hurricanes","state":"Florida","abbreviation":"MIAF","rival":"VT","prestige":"90","headCoach":{"name":"Manny Diaz","age":"45","homeState":"Florida","contractYear":"1","startYear":"2019","contractLength":"4","ratOvr":"89","ratOff":"87","ratDef":"89","ratTalent":"92","ratDiscipline":"92"}},
+{"name":"Virginia Tech Hokies","state":"Virginia","abbreviation":"VT","rival":"MIAF","prestige":"85","headCoach":{"name":"Justin Fuente","age":"42","homeState":"Oklahoma","contractYear":"4","startYear":"2016","contractLength":"7","ratOvr":"85","ratOff":"81","ratDef":"90","ratTalent":"82","ratDiscipline":"79"}},
+{"name":"Syracuse Orange","state":"New York","abbreviation":"CUSE","rival":"RUTG","prestige":"80","headCoach":{"name":"Dino Babers","age":"57","homeState":"Hawaii","contractYear":"4","startYear":"2016","contractLength":"9","ratOvr":"75","ratOff":"81","ratDef":"73","ratTalent":"77","ratDiscipline":"85"}},
+{"name":"West Virginia Mountaineers","state":"West Virginia","abbreviation":"WVU","rival":"PITT","prestige":"80","headCoach":{"name":"Neal Brown","age":"39","homeState":"Massachusetts","contractYear":"1","startYear":"2019","contractLength":"5","ratOvr":"84","ratOff":"92","ratDef":"78","ratTalent":"85","ratDiscipline":"91"}},
+{"name":"Pittsburgh Panthers","state":"Pennsylvania","abbreviation":"PITT","rival":"WVU","prestige":"75","headCoach":{"name":"Pat Narduzzi","age":"52","homeState":"Rhode Island","contractYear":"6","startYear":"2014","contractLength":"9","ratOvr":"80","ratOff":"81","ratDef":"81","ratTalent":"79","ratDiscipline":"77"}},
+{"name":"Boston College Eagles","state":"Massachusetts","abbreviation":"BC","rival":"CONN","prestige":"65","headCoach":{"name":"Steve Addazio","age":"59","homeState":"Connecticut","contractYear":"7","startYear":"2013","contractLength":"12","ratOvr":"79","ratOff":"77","ratDef":"85","ratTalent":"83","ratDiscipline":"77"}},
+{"name":"Rutgers Scarlet Knights","state":"New Jersey","abbreviation":"RUTG","rival":"CUSE","prestige":"65","headCoach":{"name":"Chris Ash","age":"45","homeState":"Iowa","contractYear":"4","startYear":"2016","contractLength":"9","ratOvr":"73","ratOff":"67","ratDef":"82","ratTalent":"70","ratDiscipline":"72"}},
+{"name":"Cincinnati Bearcats","state":"Ohio","abbreviation":"CINC","rival":"TEM","prestige":"65","headCoach":{"name":"Luke Fickell","age":"45","homeState":"Ohio","contractYear":"3","startYear":"2017","contractLength":"7","ratOvr":"72","ratOff":"72","ratDef":"71","ratTalent":"68","ratDiscipline":"73"}},
+{"name":"Connecticut Huskies","state":"Connecticut","abbreviation":"CONN","rival":"BC","prestige":"65","headCoach":{"name":"Randy Edsall","age":"60","homeState":"New York","contractYear":"3","startYear":"2017","contractLength":"8","ratOvr":"64","ratOff":"71","ratDef":"60","ratTalent":"66","ratDiscipline":"72"}},
+{"name":"Temple Owls","state":"Pennsylvania","abbreviation":"TEM","rival":"CINC","prestige":"55","headCoach":{"name":"Rod Carey","age":"47","homeState":"Indiana","contractYear":"1","startYear":"2019","contractLength":"5","ratOvr":"74","ratOff":"73","ratDef":"78","ratTalent":"69","ratDiscipline":"69"}}
+]
+},
+{
+"confFullName":"Big Ten",
+"confName":"B10",
+"confPrestige":"95",
+"confTeams" : [
+{"name":"Ohio State Buckeyes","state":"Ohio","abbreviation":"OHST","rival":"MICH","prestige":"95","headCoach":{"name":"Ryan Day","age":"40","homeState":"New Hampshire","contractYear":"1","startYear":"2019","contractLength":"4","ratOvr":"95","ratOff":"95","ratDef":"91","ratTalent":"98","ratDiscipline":"99"}},
+{"name":"Michigan Wolverines","state":"Michigan","abbreviation":"MICH","rival":"OHST","prestige":"95","headCoach":{"name":"Jim Harbaugh","age":"55","homeState":"Michigan","contractYear":"5","startYear":"2015","contractLength":"8","ratOvr":"90","ratOff":"84","ratDef":"95","ratTalent":"90","ratDiscipline":"82"}},
+{"name":"Wisconsin Badgers","state":"Wisconsin","abbreviation":"WISC","rival":"MINN","prestige":"90","headCoach":{"name":"Paul Chryst","age":"53","homeState":"Wisconsin","contractYear":"6","startYear":"2014","contractLength":"11","ratOvr":"89","ratOff":"88","ratDef":"91","ratTalent":"87","ratDiscipline":"92"}},
+{"name":"Michigan State Spartans","state":"Michigan","abbreviation":"MIST","rival":"IOWA","prestige":"90","headCoach":{"name":"Mark Dantonio","age":"63","homeState":"South Carolina","contractYear":"13","startYear":"2007","contractLength":"16","ratOvr":"90","ratOff":"81","ratDef":"96","ratTalent":"88","ratDiscipline":"78"}},
+{"name":"Iowa Hawkeyes","state":"Iowa","abbreviation":"IOWA","rival":"MIST","prestige":"80","headCoach":{"name":"Kirk Ferentz","age":"63","homeState":"Connecticut","contractYear":"21","startYear":"1999","contractLength":"25","ratOvr":"81","ratOff":"79","ratDef":"88","ratTalent":"86","ratDiscipline":"84"}},
+{"name":"Minnesota Golden Gophers","state":"Minnesota","abbreviation":"MINN","rival":"WISC","prestige":"75","headCoach":{"name":"P. J. Fleck","age":"38","homeState":"Ilinois","contractYear":"3","startYear":"2017","contractLength":"7","ratOvr":"76","ratOff":"72","ratDef":"81","ratTalent":"75","ratDiscipline":"77"}},
+{"name":"Illinois Fighting Illini","state":"Illinois","abbreviation":"ILL","rival":"NW","prestige":"70","headCoach":{"name":"Lovie Smith","age":"60","homeState":"Oklahoma","contractYear":"4","startYear":"2016","contractLength":"9","ratOvr":"70","ratOff":"66","ratDef":"73","ratTalent":"71","ratDiscipline":"64"}},
+{"name":"Northwestern Wildcats","state":"Illinois","abbreviation":"NW","rival":"ILL","prestige":"70","headCoach":{"name":"Pat Fitzgerald","age":"44","homeState":"Ilinois","contractYear":"14","startYear":"2006","contractLength":"19","ratOvr":"81","ratOff":"80","ratDef":"86","ratTalent":"81","ratDiscipline":"79"}},
+{"name":"Purdue Boilermakers","state":"Indiana","abbreviation":"PUR","rival":"IND","prestige":"65","headCoach":{"name":"Jeff Brohm","age":"47","homeState":"Kentucky","contractYear":"3","startYear":"2017","contractLength":"6","ratOvr":"78","ratOff":"82","ratDef":"76","ratTalent":"82","ratDiscipline":"80"}},
+{"name":"Indiana Hoosiers","state":"Indiana","abbreviation":"IND","rival":"PUR","prestige":"60","headCoach":{"name":"Tom Allen","age":"49","homeState":"Indiana","contractYear":"3","startYear":"2017","contractLength":"6","ratOvr":"77","ratOff":"76","ratDef":"81","ratTalent":"72","ratDiscipline":"80"}}
+]
+},
+{
+"confFullName":"Conference USA",
+"confName":"CUSA",
+"confPrestige":"75",
+"confTeams" : [
+{"name":"Central Florida Knights","state":"Florida","abbreviation":"UCF","rival":"USF","prestige":"75","headCoach":{"name":"Josh Heupel","age":"41","homeState":"Oklahoma","contractYear":"2","startYear":"2018","contractLength":"5","ratOvr":"86","ratOff":"92","ratDef":"79","ratTalent":"89","ratDiscipline":"95"}},
+{"name":"Memphis Tigers","state":"Tennessee","abbreviation":"MEM","rival":"TULN","prestige":"70","headCoach":{"name":"Mike Norvell","age":"37","homeState":"Arkansas","contractYear":"4","startYear":"2016","contractLength":"8","ratOvr":"80","ratOff":"89","ratDef":"73","ratTalent":"81","ratDiscipline":"88"}},
+{"name":"South Florida Bulls","state":"Florida","abbreviation":"USF","rival":"UCF","prestige":"60","headCoach":{"name":"Charlie Strong","age":"58","homeState":"Arkansas","contractYear":"3","startYear":"2017","contractLength":"7","ratOvr":"78","ratOff":"77","ratDef":"81","ratTalent":"74","ratDiscipline":"81"}},
+{"name":"Florida Atlantic Owls","state":"Florida","abbreviation":"FAU","rival":"FIU","prestige":"55","headCoach":{"name":"Lane Kiffin","age":"43","homeState":"California","contractYear":"3","startYear":"2017","contractLength":"7","ratOvr":"83","ratOff":"86","ratDef":"82","ratTalent":"79","ratDiscipline":"82"}},
+{"name":"Southern Miss Golden Eagles","state":"Mississippi","abbreviation":"USM","rival":"UAB","prestige":"50","headCoach":{"name":"Jay Hopson","age":"50","homeState":"Mississippi","contractYear":"4","startYear":"2016","contractLength":"9","ratOvr":"71","ratOff":"70","ratDef":"72","ratTalent":"69","ratDiscipline":"72"}},
+{"name":"Alabama Birmingham Blazers","state":"Alabama","abbreviation":"UAB","rival":"USM","prestige":"50","headCoach":{"name":"Bill Clark","age":"50","homeState":"Alabama","contractYear":"4","startYear":"2016","contractLength":"9","ratOvr":"72","ratOff":"71","ratDef":"73","ratTalent":"69","ratDiscipline":"70"}},
+{"name":"East Carolina Pirates","state":"North Carolina","abbreviation":"ECU","rival":"UNCC","prestige":"50","headCoach":{"name":"Mike Houston","age":"47","homeState":"North Carolina","contractYear":"2","startYear":"2018","contractLength":"6","ratOvr":"64","ratOff":"74","ratDef":"60","ratTalent":"62","ratDiscipline":"74"}},
+{"name":"Tulane Green Wave","state":"Louisiana","abbreviation":"TULN","rival":"MEM","prestige":"50","headCoach":{"name":"Willie Fritz","age":"59","homeState":"Kansas","contractYear":"4","startYear":"2016","contractLength":"7","ratOvr":"70","ratOff":"80","ratDef":"63","ratTalent":"68","ratDiscipline":"81"}},
+{"name":"Florida International Panthers","state":"Florida","abbreviation":"FIU","rival":"FAU","prestige":"45","headCoach":{"name":"Butch Davis","age":"67","homeState":"Arkansas","contractYear":"3","startYear":"2017","contractLength":"6","ratOvr":"66","ratOff":"68","ratDef":"63","ratTalent":"66","ratDiscipline":"65"}},
+{"name":"UNC Charlotte Forty Niners","state":"North Carolina","abbreviation":"UNCC","rival":"ECU","prestige":"40","headCoach":{"name":"Will Healy","age":"34","homeState":"Virginia","contractYear":"1","startYear":"2019","contractLength":"5","ratOvr":"64","ratOff":"60","ratDef":"67","ratTalent":"69","ratDiscipline":"61"}}
+]
+},
+{
+"confFullName":"Independent",
+"confName":"IND",
+"confPrestige":"75",
+"confTeams" : [
+{"name":"Notre Dame Fighting Irish","state":"Indiana","abbreviation":"ND","rival":"PSU","prestige":"95","headCoach":{"name":"Brian Kelly","age":"57","homeState":"Massacusetts","contractYear":"10","startYear":"2010","contractLength":"14","ratOvr":"91","ratOff":"88","ratDef":"92","ratTalent":"95","ratDiscipline":"87"}},
+{"name":"Penn State Nittany Lions","state":"Pennsylvania","abbreviation":"PSU","rival":"ND","prestige":"95","headCoach":{"name":"James Franklin","age":"47","homeState":"Pennsylvania","contractYear":"6","startYear":"2014","contractLength":"11","ratOvr":"91","ratOff":"90","ratDef":"89","ratTalent":"94","ratDiscipline":"89"}},
+{"name":"Florida State Seminoles","state":"Florida","abbreviation":"FSU","rival":"MAR","prestige":"90","headCoach":{"name":"Willie Taggart","age":"42","homeState":"Kentucky","contractYear":"3","startYear":"2017","contractLength":"6","ratOvr":"85","ratOff":"86","ratDef":"86","ratTalent":"81","ratDiscipline":"87"}},
+{"name":"Army Black Knights","state":"New York","abbreviation":"ARMY","rival":"NAVY","prestige":"85","headCoach":{"name":"Jeff Monken","age":"52","homeState":"Illinois","contractYear":"6","startYear":"2014","contractLength":"9","ratOvr":"71","ratOff":"72","ratDef":"72","ratTalent":"73","ratDiscipline":"77"}},
+{"name":"Navy Midshipmen","state":"Maryland","abbreviation":"NAVY","rival":"ARMY","prestige":"85","headCoach":{"name":"Ken Niumatalolo","age":"53","homeState":"Hawaii","contractYear":"13","startYear":"2007","contractLength":"18","ratOvr":"77","ratOff":"82","ratDef":"76","ratTalent":"72","ratDiscipline":"77"}},
+{"name":"Marshall Thundering Herd","state":"West Virginia","abbreviation":"MAR","rival":"FSU","prestige":"65","headCoach":{"name":"Doc Holliday","age":"61","homeState":"West Virginia","contractYear":"10","startYear":"2010","contractLength":"13","ratOvr":"77","ratOff":"75","ratDef":"83","ratTalent":"78","ratDiscipline":"72"}},
+{"name":"Appalachian State Mountaineers","state":"North Carolina","abbreviation":"APST","rival":"BUF","prestige":"60","headCoach":{"name":"Eliah Drinkwitz","age":"36","homeState":"Arkansas","contractYear":"1","startYear":"2019","contractLength":"5","ratOvr":"77","ratOff":"76","ratDef":"81","ratTalent":"81","ratDiscipline":"73"}},
+{"name":"Buffalo Bulls","state":"New York","abbreviation":"BUF","rival":"APST","prestige":"45","headCoach":{"name":"Lance Leipold","age":"54","homeState":"Wisconsin","contractYear":"5","startYear":"2015","contractLength":"8","ratOvr":"71","ratOff":"75","ratDef":"68","ratTalent":"76","ratDiscipline":"80"}},
+{"name":"Middle Tennessee Blue Raiders","state":"Tennessee","abbreviation":"MTSU","rival":"WKU","prestige":"45","headCoach":{"name":"Rick Stockstill","age":"61","homeState":"Florida","contractYear":"14","startYear":"2006","contractLength":"19","ratOvr":"74","ratOff":"73","ratDef":"76","ratTalent":"74","ratDiscipline":"70"}},
+{"name":"Western Kentucky Hilltoppers","state":"Kentucky","abbreviation":"WKU","rival":"MTSU","prestige":"40","headCoach":{"name":"Tyson Helton","age":"41","homeState":"Texas","contractYear":"1","startYear":"2019","contractLength":"5","ratOvr":"72","ratOff":"71","ratDef":"72","ratTalent":"69","ratDiscipline":"70"}}
+]
+},
+{
+"confFullName":"Mid American",
+"confName":"MAC",
+"confPrestige":"70",
+"confTeams" : [
+{"name":"Toledo Rockets","state":"Ohio","abbreviation":"TOL","rival":"EMU","prestige":"55","headCoach":{"name":"Jason Candle","age":"39","homeState":"Ohio","contractYear":"4","startYear":"2016","contractLength":"7","ratOvr":"79","ratOff":"81","ratDef":"80","ratTalent":"80","ratDiscipline":"83"}},
+{"name":"Western Michigan Broncos","state":"Michigan","abbreviation":"WMU","rival":"CMU","prestige":"55","headCoach":{"name":"Tim Lester","age":"42","homeState":"Michigan","contractYear":"3","startYear":"2017","contractLength":"7","ratOvr":"73","ratOff":"74","ratDef":"73","ratTalent":"78","ratDiscipline":"72"}},
+{"name":"Miami OH RedHawks","state":"Ohio","abbreviation":"MIAO","rival":"BALL","prestige":"50","headCoach":{"name":"Chuck Martin","age":"51","homeState":"Illinois","contractYear":"6","startYear":"2014","contractLength":"11","ratOvr":"74","ratOff":"73","ratDef":"78","ratTalent":"72","ratDiscipline":"75"}},
+{"name":"Ohio Bobcats","state":"Ohio","abbreviation":"OHIO","rival":"AKR","prestige":"50","headCoach":{"name":"Frank Solich","age":"74","homeState":"Nebraska","contractYear":"15","startYear":"2005","contractLength":"18","ratOvr":"76","ratOff":"79","ratDef":"75","ratTalent":"72","ratDiscipline":"79"}},
+{"name":"Central Michigan Chippewas","state":"Michigan","abbreviation":"CMU","rival":"WMU","prestige":"45","headCoach":{"name":"Jim McElwain","age":"57","homeState":"Washington","contractYear":"1","startYear":"2019","contractLength":"6","ratOvr":"66","ratOff":"61","ratDef":"70","ratTalent":"67","ratDiscipline":"59"}},
+{"name":"Bowling Green Falcons","state":"Ohio","abbreviation":"BGST","rival":"KENT","prestige":"45","headCoach":{"name":"Scot Loeffler","age":"44","homeState":"Michigan","contractYear":"1","startYear":"2019","contractLength":"4","ratOvr":"71","ratOff":"75","ratDef":"67","ratTalent":"75","ratDiscipline":"73"}},
+{"name":"Eastern Michigan Eagles","state":"Michigan","abbreviation":"EMU","rival":"TOL","prestige":"45","headCoach":{"name":"Chris Creighton","age":"50","homeState":"Ohio","contractYear":"6","startYear":"2014","contractLength":"9","ratOvr":"71","ratOff":"65","ratDef":"78","ratTalent":"76","ratDiscipline":"63"}},
+{"name":"Akron Zips","state":"Ohio","abbreviation":"AKR","rival":"OHIO","prestige":"45","headCoach":{"name":"Tom Arth","age":"37","homeState":"Ohio","contractYear":"1","startYear":"2019","contractLength":"4","ratOvr":"66","ratOff":"60","ratDef":"72","ratTalent":"68","ratDiscipline":"59"}},
+{"name":"Ball State Cardinals","state":"Indiana","abbreviation":"BALL","rival":"MIAO","prestige":"40","headCoach":{"name":"Mike Neu","age":"48","homeState":"Indiana","contractYear":"4","startYear":"2016","contractLength":"7","ratOvr":"66","ratOff":"65","ratDef":"68","ratTalent":"70","ratDiscipline":"62"}},
+{"name":"Kent State Golden Flashes","state":"Ohio","abbreviation":"KENT","rival":"BGST","prestige":"40","headCoach":{"name":"Sean Lewis","age":"33","homeState":"Wisconsin","contractYear":"2","startYear":"2018","contractLength":"5","ratOvr":"64","ratOff":"60","ratDef":"68","ratTalent":"61","ratDiscipline":"65"}}
+]
+},
+{
+"confFullName":"Mountain West",
+"confName":"MWC",
+"confPrestige":"70",
+"confTeams" : [
+{"name":"Brigham Young Cougars","state":"Utah","abbreviation":"BYU","rival":"UTAH","prestige":"85","headCoach":{"name":"Kalani Sitake","age":"43","homeState":"Utah","contractYear":"4","startYear":"2016","contractLength":"9","ratOvr":"75","ratOff":"68","ratDef":"84","ratTalent":"71","ratDiscipline":"73"}},
+{"name":"Utah Utes","state":"Utah","abbreviation":"UTAH","rival":"BYU","prestige":"80","headCoach":{"name":"Kyle Whittingham","age":"59","homeState":"Utah","contractYear":"15","startYear":"2005","contractLength":"18","ratOvr":"83","ratOff":"82","ratDef":"86","ratTalent":"84","ratDiscipline":"86"}},
+{"name":"Air Force Falcons","state":"Colorado","abbreviation":"AFA","rival":"CSU","prestige":"60","headCoach":{"name":"Troy Calhoun","age":"52","homeState":"Colorado","contractYear":"13","startYear":"2007","contractLength":"18","ratOvr":"69","ratOff":"75","ratDef":"64","ratTalent":"70","ratDiscipline":"76"}},
+{"name":"Colorado State Rams","state":"Colorado","abbreviation":"CSU","rival":"AFA","prestige":"50","headCoach":{"name":"Mike Bobo","age":"45","homeState":"Georgia","contractYear":"5","startYear":"2015","contractLength":"10","ratOvr":"71","ratOff":"76","ratDef":"67","ratTalent":"72","ratDiscipline":"80"}},
+{"name":"Texas El Paso Miners","state":"Texas","abbreviation":"UTEP","rival":"UTSA","prestige":"45","headCoach":{"name":"Dana Dimel","age":"56","homeState":"Kansas","contractYear":"2","startYear":"2018","contractLength":"6","ratOvr":"61","ratOff":"60","ratDef":"64","ratTalent":"56","ratDiscipline":"62"}},
+{"name":"New Mexico Lobos","state":"New Mexico","abbreviation":"UNM","rival":"NMST","prestige":"40","headCoach":{"name":"Bob Davie","age":"64","homeState":"Ohio","contractYear":"8","startYear":"2012","contractLength":"12","ratOvr":"68","ratOff":"67","ratDef":"68","ratTalent":"64","ratDiscipline":"70"}},
+{"name":"Texas San Antonio Roadrunners","state":"Texas","abbreviation":"UTSA","rival":"UTEP","prestige":"40","headCoach":{"name":"Frank Wilson","age":"45","homeState":"Louisiana","contractYear":"4","startYear":"2016","contractLength":"9","ratOvr":"69","ratOff":"63","ratDef":"78","ratTalent":"65","ratDiscipline":"61"}},
+{"name":"North Texas Mean Green","state":"Texas","abbreviation":"NOTX","rival":"TXST","prestige":"40","headCoach":{"name":"Seth Littrell","age":"40","homeState":"Oklahoma","contractYear":"4","startYear":"2016","contractLength":"7","ratOvr":"73","ratOff":"81","ratDef":"69","ratTalent":"69","ratDiscipline":"81"}},
+{"name":"Texas State Bobcats","state":"Texas","abbreviation":"TXST","rival":"NOTX","prestige":"40","headCoach":{"name":"Jake Spavital","age":"33","homeState":"Missouri","contractYear":"1","startYear":"2019","contractLength":"6","ratOvr":"64","ratOff":"61","ratDef":"66","ratTalent":"65","ratDiscipline":"62"}},
+{"name":"New Mexico State Aggies","state":"New Mexico","abbreviation":"NMST","rival":"UNM","prestige":"40","headCoach":{"name":"Doug Martin","age":"56","homeState":"Kentucky","contractYear":"7","startYear":"2013","contractLength":"11","ratOvr":"70","ratOff":"68","ratDef":"73","ratTalent":"67","ratDiscipline":"69"}}
+]
+},
+{
+"confFullName":"Pacific 10",
+"confName":"P10",
+"confPrestige":"85",
+"confTeams" : [
+{"name":"Southern Cal Trojans","state":"California","abbreviation":"USC","rival":"UCLA","prestige":"95","headCoach":{"name":"Clay Helton","age":"46","homeState":"Texas","contractYear":"4","startYear":"2016","contractLength":"8","ratOvr":"87","ratOff":"87","ratDef":"86","ratTalent":"85","ratDiscipline":"92"}},
+{"name":"Oregon Ducks","state":"Oregon","abbreviation":"ORE","rival":"ORST","prestige":"85","headCoach":{"name":"Mario Cristobal","age":"48","homeState":"Florida","contractYear":"2","startYear":"2018","contractLength":"5","ratOvr":"84","ratOff":"89","ratDef":"83","ratTalent":"85","ratDiscipline":"91"}},
+{"name":"Stanford Cardinal","state":"California","abbreviation":"STAN","rival":"CAL","prestige":"85","headCoach":{"name":"David Shaw","age":"46","homeState":"California","contractYear":"9","startYear":"2011","contractLength":"12","ratOvr":"85","ratOff":"90","ratDef":"81","ratTalent":"86","ratDiscipline":"92"}},
+{"name":"UCLA Bruins","state":"California","abbreviation":"UCLA","rival":"USC","prestige":"85","headCoach":{"name":"Chip Kelly","age":"55","homeState":"New Hampshire","contractYear":"2","startYear":"2018","contractLength":"5","ratOvr":"80","ratOff":"87","ratDef":"76","ratTalent":"84","ratDiscipline":"87"}},
+{"name":"Washington Huskies","state":"Washington","abbreviation":"WASH","rival":"WAST","prestige":"85","headCoach":{"name":"Chris Petersen","age":"54","homeState":"California","contractYear":"6","startYear":"2014","contractLength":"10","ratOvr":"93","ratOff":"89","ratDef":"94","ratTalent":"94","ratDiscipline":"91"}},
+{"name":"Arizona State Sun Devils","state":"Arizona","abbreviation":"AZST","rival":"ARIZ","prestige":"80","headCoach":{"name":"Herm Edwards","age":"64","homeState":"California","contractYear":"2","startYear":"2018","contractLength":"7","ratOvr":"82","ratOff":"90","ratDef":"76","ratTalent":"85","ratDiscipline":"90"}},
+{"name":"California Golden Bears","state":"California","abbreviation":"CAL","rival":"STAN","prestige":"70","headCoach":{"name":"Justin Wilcox","age":"42","homeState":"Oregon","contractYear":"3","startYear":"2017","contractLength":"7","ratOvr":"77","ratOff":"78","ratDef":"79","ratTalent":"73","ratDiscipline":"75"}},
+{"name":"Arizona Wildcats","state":"Arizona","abbreviation":"ARIZ","rival":"AZST","prestige":"70","headCoach":{"name":"Kevin Sumlin","age":"54","homeState":"Indiana","contractYear":"2","startYear":"2018","contractLength":"5","ratOvr":"77","ratOff":"81","ratDef":"74","ratTalent":"76","ratDiscipline":"84"}},
+{"name":"Washington State Cougars","state":"Washington","abbreviation":"WAST","rival":"WASH","prestige":"70","headCoach":{"name":"Mike Leach","age":"58","homeState":"California","contractYear":"8","startYear":"2012","contractLength":"11","ratOvr":"86","ratOff":"93","ratDef":"82","ratTalent":"91","ratDiscipline":"88"}},
+{"name":"Oregon State Beavers","state":"Oregon","abbreviation":"ORST","rival":"ORE","prestige":"60","headCoach":{"name":"Jonathan Smith","age":"40","homeState":"Oregon","contractYear":"2","startYear":"2018","contractLength":"7","ratOvr":"70","ratOff":"73","ratDef":"67","ratTalent":"68","ratDiscipline":"68"}}
+]
+},
+{
+"confFullName":"Southeastern",
+"confName":"SEC",
+"confPrestige":"95",
+"confTeams" : [
+{"name":"Alabama Crimson Tide","state":"Alabama","abbreviation":"BAMA","rival":"AUB","prestige":"95","headCoach":{"name":"Nick Saban","age":"67","homeState":"Ohio","contractYear":"13","startYear":"2007","contractLength":"17","ratOvr":"96","ratOff":"96","ratDef":"96","ratTalent":"100","ratDiscipline":"100"}},
+{"name":"Florida Gators","state":"Florida","abbreviation":"UF","rival":"UGA","prestige":"95","headCoach":{"name":"Dan Mullen","age":"46","homeState":"New York","contractYear":"2","startYear":"2018","contractLength":"5","ratOvr":"84","ratOff":"83","ratDef":"87","ratTalent":"88","ratDiscipline":"86"}},
+{"name":"LSU Tigers","state":"Louisiana","abbreviation":"LSU","rival":"UK","prestige":"90","headCoach":{"name":"Ed Orgeron","age":"57","homeState":"Louisiana","contractYear":"4","startYear":"2016","contractLength":"8","ratOvr":"87","ratOff":"83","ratDef":"90","ratTalent":"92","ratDiscipline":"86"}},
+{"name":"Auburn Tigers","state":"Alabama","abbreviation":"AUB","rival":"BAMA","prestige":"90","headCoach":{"name":"Gus Malzahn","age":"53","homeState":"Texas","contractYear":"7","startYear":"2013","contractLength":"12","ratOvr":"92","ratOff":"88","ratDef":"93","ratTalent":"95","ratDiscipline":"91"}},
+{"name":"Georgia Bulldogs","state":"Georgia","abbreviation":"UGA","rival":"UF","prestige":"90","headCoach":{"name":"Kirby Smart","age":"43","homeState":"Georgia","contractYear":"4","startYear":"2016","contractLength":"7","ratOvr":"92","ratOff":"91","ratDef":"91","ratTalent":"93","ratDiscipline":"95"}},
+{"name":"Mississippi State Bulldogs","state":"Mississippi","abbreviation":"MSST","rival":"MISS","prestige":"85","headCoach":{"name":"Joe Moorhead","age":"42","homeState":"Mississippi","contractYear":"2","startYear":"2018","contractLength":"5","ratOvr":"88","ratOff":"84","ratDef":"91","ratTalent":"92","ratDiscipline":"89"}},
+{"name":"Ole Miss Rebels","state":"Mississippi","abbreviation":"MISS","rival":"MSST","prestige":"85","headCoach":{"name":"Matt Luke","age":"45","homeState":"New York","contractYear":"2","startYear":"2018","contractLength":"6","ratOvr":"84","ratOff":"91","ratDef":"76","ratTalent":"83","ratDiscipline":"91"}},
+{"name":"Tennessee Volunteers","state":"Tennessee","abbreviation":"TENN","rival":"VAND","prestige":"80","headCoach":{"name":"Jeremy Pruitt","age":"44","homeState":"Alabama","contractYear":"2","startYear":"2018","contractLength":"7","ratOvr":"77","ratOff":"76","ratDef":"82","ratTalent":"76","ratDiscipline":"81"}},
+{"name":"Kentucky Wildcats","state":"Kentucky","abbreviation":"UK","rival":"LSU","prestige":"60","headCoach":{"name":"Mark Stoops","age":"51","homeState":"Iowa","contractYear":"7","startYear":"2013","contractLength":"11","ratOvr":"77","ratOff":"76","ratDef":"80","ratTalent":"78","ratDiscipline":"74"}},
+{"name":"Vanderbilt Commodores","state":"Tennessee","abbreviation":"VAND","rival":"TENN","prestige":"55","headCoach":{"name":"Derek Mason","age":"49","homeState":"Arizona","contractYear":"6","startYear":"2014","contractLength":"11","ratOvr":"75","ratOff":"75","ratDef":"75","ratTalent":"76","ratDiscipline":"75"}}
+]
+},
+{
+"confFullName":"Southwestern",
+"confName":"SWC",
+"confPrestige":"80",
+"confTeams" : [
+{"name":"Texas Longhorns","state":"Texas","abbreviation":"TEX","rival":"TAMU","prestige":"95","headCoach":{"name":"Tom Herman","age":"43","homeState":"Texas","contractYear":"3","startYear":"2017","contractLength":"8","ratOvr":"84","ratOff":"82","ratDef":"88","ratTalent":"85","ratDiscipline":"87"}},
+{"name":"Texas A&M Aggies","state":"Texas","abbreviation":"TAMU","rival":"TEX","prestige":"90","headCoach":{"name":"Jimbo Fisher","age":"53","homeState":"Alabama","contractYear":"2","startYear":"2018","contractLength":"7","ratOvr":"84","ratOff":"85","ratDef":"85","ratTalent":"79","ratDiscipline":"80"}},
+{"name":"Texas Christian Horned Frogs","state":"Texas","abbreviation":"TCU","rival":"SMU","prestige":"90","headCoach":{"name":"Gary Patterson","age":"59","homeState":"Kansas","contractYear":"20","startYear":"2000","contractLength":"24","ratOvr":"85","ratOff":"82","ratDef":"89","ratTalent":"80","ratDiscipline":"78"}},
+{"name":"Arkansas Razorbacks","state":"Arkansas","abbreviation":"ARK","rival":"ARST","prestige":"75","headCoach":{"name":"Chad Morris","age":"50","homeState":"Texas","contractYear":"2","startYear":"2018","contractLength":"6","ratOvr":"79","ratOff":"84","ratDef":"77","ratTalent":"84","ratDiscipline":"85"}},
+{"name":"Baylor Bears","state":"Texas","abbreviation":"BAY","rival":"TTU","prestige":"75","headCoach":{"name":"Matt Rhule","age":"44","homeState":"Pennsylvania","contractYear":"3","startYear":"2017","contractLength":"8","ratOvr":"79","ratOff":"82","ratDef":"76","ratTalent":"82","ratDiscipline":"83"}},
+{"name":"Houston Cougars","state":"Texas","abbreviation":"HOU","rival":"RICE","prestige":"70","headCoach":{"name":"Dana Holgorsen","age":"47","homeState":"Iowa","contractYear":"1","startYear":"2019","contractLength":"6","ratOvr":"79","ratOff":"80","ratDef":"84","ratTalent":"80","ratDiscipline":"80"}},
+{"name":"Texas Tech Red Raiders","state":"Texas","abbreviation":"TTU","rival":"BAY","prestige":"65","headCoach":{"name":"Matt Wells","age":"45","homeState":"Utah","contractYear":"1","startYear":"2019","contractLength":"5","ratOvr":"80","ratOff":"84","ratDef":"77","ratTalent":"85","ratDiscipline":"83"}},
+{"name":"Arkansas State Red Wolves","state":"Arkansas","abbreviation":"ARST","rival":"ARK","prestige":"55","headCoach":{"name":"Blake Anderson","age":"50","homeState":"Texas","contractYear":"6","startYear":"2014","contractLength":"10","ratOvr":"77","ratOff":"81","ratDef":"73","ratTalent":"76","ratDiscipline":"79"}},
+{"name":"Southern Methodist Mustangs","state":"Texas","abbreviation":"SMU","rival":"TCU","prestige":"55","headCoach":{"name":"Sonny Dykes","age":"49","homeState":"Texas","contractYear":"3","startYear":"2017","contractLength":"8","ratOvr":"75","ratOff":"83","ratDef":"69","ratTalent":"79","ratDiscipline":"80"}},
+{"name":"Rice Owls","state":"Texas","abbreviation":"RICE","rival":"HOU","prestige":"50","headCoach":{"name":"Mike Bloomgren","age":"42","homeState":"Florida","contractYear":"2","startYear":"2018","contractLength":"5","ratOvr":"63","ratOff":"64","ratDef":"61","ratTalent":"60","ratDiscipline":"63"}}
+]
+},
+{
+"confFullName":"Western Athletic",
+"confName":"WAC",
+"confPrestige":"75",
+"confTeams" : [
+{"name":"Boise State Broncos","state":"Idaho","abbreviation":"BSU","rival":"WYO","prestige":"75","headCoach":{"name":"Bryan Harsin","age":"42","homeState":"Idaho","contractYear":"6","startYear":"2014","contractLength":"9","ratOvr":"84","ratOff":"81","ratDef":"88","ratTalent":"79","ratDiscipline":"76"}},
+{"name":"Fresno State Bulldogs","state":"California","abbreviation":"FRES","rival":"SJSU","prestige":"60","headCoach":{"name":"Jeff Tedford","age":"57","homeState":"California","contractYear":"3","startYear":"2017","contractLength":"7","ratOvr":"79","ratOff":"78","ratDef":"83","ratTalent":"83","ratDiscipline":"80"}},
+{"name":"Hawaii Rainbow Warriors","state":"Hawai'i","abbreviation":"HAW","rival":"SDSU","prestige":"60","headCoach":{"name":"Nick Rolovich","age":"40","homeState":"Hawai'i","contractYear":"4","startYear":"2016","contractLength":"7","ratOvr":"65","ratOff":"67","ratDef":"63","ratTalent":"65","ratDiscipline":"66"}},
+{"name":"San Diego State Aztecs","state":"California","abbreviation":"SDSU","rival":"HAW","prestige":"60","headCoach":{"name":"Rocky Long","age":"69","homeState":"New Mexico","contractYear":"9","startYear":"2011","contractLength":"13","ratOvr":"78","ratOff":"79","ratDef":"81","ratTalent":"74","ratDiscipline":"75"}},
+{"name":"Nevada Wolf Pack","state":"Nevada","abbreviation":"NEV","rival":"UNLV","prestige":"55","headCoach":{"name":"Jay Norvell","age":"56","homeState":"Iowa","contractYear":"3","startYear":"2017","contractLength":"6","ratOvr":"70","ratOff":"74","ratDef":"67","ratTalent":"66","ratDiscipline":"76"}},
+{"name":"Louisiana Tech Bulldogs","state":"Louisiana","abbreviation":"LAT","rival":"USU","prestige":"55","headCoach":{"name":"Skip Holtz","age":"55","homeState":"Indiana","contractYear":"7","startYear":"2013","contractLength":"10","ratOvr":"75","ratOff":"77","ratDef":"76","ratTalent":"74","ratDiscipline":"76"}},
+{"name":"UNLV Rebels","state":"Nevada","abbreviation":"UNLV","rival":"NEV","prestige":"50","headCoach":{"name":"Tony Sanchez","age":"45","homeState":"New Mexico","contractYear":"5","startYear":"2015","contractLength":"8","ratOvr":"69","ratOff":"73","ratDef":"66","ratTalent":"74","ratDiscipline":"72"}},
+{"name":"Utah State Aggies","state":"Utah","abbreviation":"USU","rival":"LAT","prestige":"45","headCoach":{"name":"Gary Andersen","age":"55","homeState":"Utah","contractYear":"1","startYear":"2019","contractLength":"4","ratOvr":"75","ratOff":"74","ratDef":"78","ratTalent":"73","ratDiscipline":"74"}},
+{"name":"Wyoming Cowboys","state":"Wyoming","abbreviation":"WYO","rival":"BSU","prestige":"45","headCoach":{"name":"Craig Bohl","age":"60","homeState":"Nebraska","contractYear":"6","startYear":"2014","contractLength":"11","ratOvr":"76","ratOff":"70","ratDef":"85","ratTalent":"80","ratDiscipline":"75"}},
+{"name":"San Jose State Spartans","state":"California","abbreviation":"SJSU","rival":"FRES","prestige":"40","headCoach":{"name":"Brent Brennan","age":"46","homeState":"California","contractYear":"3","startYear":"2017","contractLength":"6","ratOvr":"61","ratOff":"64","ratDef":"60","ratTalent":"62","ratDiscipline":"63"}}
+]
+}
+],
+"bowlGames" : [
+"Rose Bowl",
+"Sugar Bowl",
+"Orange Bowl",
+"Cotton Bowl",
+"Peach Bowl",
+"Fiesta Bowl",
+"Sun Bowl",
+"Gator Bowl",
+"Citrus Bowl",
+"Hall of Fame Bowl",
+"Liberty Bowl",
+"Independence Bowl",
+"Alamo Bowl",
+"Holiday Bowl",
+"Copper Bowl",
+"Tangerine Bowl",
+"Music City Bowl",
+"Las Vegas Bowl",
+"Freedom Bowl",
+"Bluebonnet Bowl",
+"Aloha Bowl",
+"Belk Bowl",
+"Motor City Bowl",
+"California Bowl",
+"Military Bowl",
+"Garden State Bowl",
+"Birmingham Bowl",
+"Idaho Bowl",
+"New Orleans Bowl",
+"New Mexico Bowl",
+"Fort Worth Bowl",
+"Poinsettia Bowl",
+"Camellia Bowl",
+"Seattle Bowl",
+"Bahamas Bowl",
+"Armed Forces Bowl"  
+]  
+}
