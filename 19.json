@@ -3,17 +3,17 @@
 {
 "confFullName":"Atlantic Coast",
 "confName":"ACC",
-"confPrestige":"90",
+"confPrestige":"87",
 "confTeams" : [
 {"name":"Clemson Tigers","state":"South Carolina","abbreviation":"CLEM","rival":"GT","prestige":"95","headCoach":{"name":"Dabo Swinney","age":"49","homeState":"Alabama","contractYear":"12","startYear":"2008","contractLength":"15","ratOvr":"94","ratOff":"93","ratDef":"98","ratTalent":"95","ratDiscipline":"97"}},
 {"name":"Georgia Tech Yellow Jackets","state":"Georgia","abbreviation":"GT","rival":"CLEM","prestige":"60","headCoach":{"name":"Geoff Collins","age":"48","homeState":"North Carolina","contractYear":"1","startYear":"2019","contractLength":"5","ratOvr":"70","ratOff":"81","ratDef":"78","ratTalent":"81","ratDiscipline":"86"}},
 {"name":"North Carolina Tar Heels","state":"North Carolina","abbreviation":"UNC","rival":"DUKE","prestige":"70","headCoach":{"name":"Mack Brown","age":"67","homeState":"Florida","contractYear":"1","startYear":"2019","contractLength":"6","ratOvr":"75","ratOff":"82","ratDef":"80","ratTalent":"77","ratDiscipline":"77"}},
-{"name":"Miami FL Hurricanes","state":"Florida","abbreviation":"MIAF","rival":"FSU","prestige":"80","headCoach":{"name":"Manny Diaz","age":"45","homeState":"Florida","contractYear":"1","startYear":"2019","contractLength":"4","ratOvr":"55","ratOff":"60","ratDef":"89","ratTalent":"75","ratDiscipline":"70"}},
-{"name":"Florida State Seminoles","state":"Florida","abbreviation":"FSU","rival":"MIAF","prestige":"70","headCoach":{"name":"Willie Taggart","age":"42","homeState":"Kentucky","contractYear":"3","startYear":"2017","contractLength":"6","ratOvr":"50","ratOff":"70","ratDef":"70","ratTalent":"70","ratDiscipline":"60"}},
+{"name":"Miami FL Hurricanes","state":"Florida","abbreviation":"MIAF","rival":"FSU","prestige":"85","headCoach":{"name":"Manny Diaz","age":"45","homeState":"Florida","contractYear":"1","startYear":"2019","contractLength":"4","ratOvr":"75","ratOff":"71","ratDef":"96","ratTalent":"75","ratDiscipline":"80"}},
+{"name":"Florida State Seminoles","state":"Florida","abbreviation":"FSU","rival":"MIAF","prestige":"75","headCoach":{"name":"Willie Taggart","age":"42","homeState":"Kentucky","contractYear":"3","startYear":"2017","contractLength":"6","ratOvr":"50","ratOff":"65","ratDef":"65","ratTalent":"70","ratDiscipline":"60"}},
 {"name":"Duke Blue Devils","state":"North Carolina","abbreviation":"DUKE","rival":"UNC","prestige":"70","headCoach":{"name":"David Cutcliffe","age":"64","homeState":"Alabama","contractYear":"12","startYear":"2008","contractLength":"17","ratOvr":"80","ratOff":"76","ratDef":"86","ratTalent":"75","ratDiscipline":"78"}},
 {"name":"Virginia Tech Hokies","state":"Virginia","abbreviation":"VT","rival":"UVA","prestige":"75","headCoach":{"name":"Justin Fuente","age":"42","homeState":"Oklahoma","contractYear":"4","startYear":"2016","contractLength":"7","ratOvr":"65","ratOff":"76","ratDef":"70","ratTalent":"70","ratDiscipline":"79"}},
-{"name":"NC State Wolfpack","state":"North Carolina","abbreviation":"NCST","rival":"WAKE","prestige":"65","headCoach":{"name":"Dave Doeren","age":"47","homeState":"Iowa","contractYear":"7","startYear":"2013","contractLength":"12","ratOvr":"81","ratOff":"89","ratDef":"78","ratTalent":"85","ratDiscipline":"86"}},
-{"name":"Wake Forest Demon Deacons","state":"North Carolina","abbreviation":"WAKE","rival":"NCST","prestige":"65","headCoach":{"name":"Dave Clawson","age":"51","homeState":"New York","contractYear":"6","startYear":"2014","contractLength":"10","ratOvr":"81","ratOff":"86","ratDef":"80","ratTalent":"82","ratDiscipline":"82"}},
+{"name":"NC State Wolfpack","state":"North Carolina","abbreviation":"NCST","rival":"WAKE","prestige":"65","headCoach":{"name":"Dave Doeren","age":"47","homeState":"Iowa","contractYear":"7","startYear":"2013","contractLength":"12","ratOvr":"79","ratOff":"89","ratDef":"78","ratTalent":"85","ratDiscipline":"86"}},
+{"name":"Wake Forest Demon Deacons","state":"North Carolina","abbreviation":"WAKE","rival":"NCST","prestige":"70","headCoach":{"name":"Dave Clawson","age":"51","homeState":"New York","contractYear":"6","startYear":"2014","contractLength":"10","ratOvr":"81","ratOff":"86","ratDef":"80","ratTalent":"82","ratDiscipline":"82"}},
 {"name":"Virginia Cavaliers","state":"Virginia","abbreviation":"UVA","rival":"VT","prestige":"70","headCoach":{"name":"Bronco Mendenhall","age":"53","homeState":"Oregon","contractYear":"4","startYear":"2016","contractLength":"8","ratOvr":"75","ratOff":"70","ratDef":"82","ratTalent":"79","ratDiscipline":"75"}}
 ]
 },
@@ -39,8 +39,8 @@
 "confName":"BEAST",
 "confPrestige":"70",
 "confTeams" : [
-{"name":"South Carolina Gamecocks","state":"South Carolina","abbreviation":"SCAR","rival":"LOU","prestige":"75","headCoach":{"name":"Will Muschamp","age":"47","homeState":"Georgia","contractYear":"4","startYear":"2016","contractLength":"7","ratOvr":"81","ratOff":"83","ratDef":"84","ratTalent":"82","ratDiscipline":"80"}},  
-{"name":"Louisville Cardinals","state":"Kentucky","abbreviation":"LOU","rival":"SCAR","prestige":"70","headCoach":{"name":"Scott Satterfield","age":"46","homeState":"North Carolina","contractYear":"1","startYear":"2019","contractLength":"6","ratOvr":"83","ratOff":"89","ratDef":"76","ratTalent":"85","ratDiscipline":"86"}},
+{"name":"South Carolina Gamecocks","state":"South Carolina","abbreviation":"SCAR","rival":"LOU","prestige":"75","headCoach":{"name":"Will Muschamp","age":"47","homeState":"Georgia","contractYear":"4","startYear":"2016","contractLength":"7","ratOvr":"75","ratOff":"83","ratDef":"84","ratTalent":"82","ratDiscipline":"80"}},  
+{"name":"Louisville Cardinals","state":"Kentucky","abbreviation":"LOU","rival":"SCAR","prestige":"70","headCoach":{"name":"Scott Satterfield","age":"46","homeState":"North Carolina","contractYear":"1","startYear":"2019","contractLength":"6","ratOvr":"80","ratOff":"89","ratDef":"76","ratTalent":"85","ratDiscipline":"86"}},
 {"name":"Syracuse Orange","state":"New York","abbreviation":"CUSE","rival":"RUTG","prestige":"70","headCoach":{"name":"Dino Babers","age":"57","homeState":"Hawaii","contractYear":"4","startYear":"2016","contractLength":"9","ratOvr":"75","ratOff":"81","ratDef":"73","ratTalent":"77","ratDiscipline":"85"}},
 {"name":"West Virginia Mountaineers","state":"West Virginia","abbreviation":"WVU","rival":"PITT","prestige":"75","headCoach":{"name":"Neal Brown","age":"39","homeState":"Massachusetts","contractYear":"1","startYear":"2019","contractLength":"5","ratOvr":"84","ratOff":"92","ratDef":"78","ratTalent":"85","ratDiscipline":"91"}},
 {"name":"Pittsburgh Panthers","state":"Pennsylvania","abbreviation":"PITT","rival":"WVU","prestige":"70","headCoach":{"name":"Pat Narduzzi","age":"52","homeState":"Rhode Island","contractYear":"6","startYear":"2014","contractLength":"9","ratOvr":"80","ratOff":"81","ratDef":"81","ratTalent":"79","ratDiscipline":"77"}},
@@ -56,7 +56,7 @@
 "confName":"B10",
 "confPrestige":"75",
 "confTeams" : [
-{"name":"Ohio State Buckeyes","state":"Ohio","abbreviation":"OHST","rival":"MICH","prestige":"85","headCoach":{"name":"Ryan Day","age":"40","homeState":"New Hampshire","contractYear":"1","startYear":"2019","contractLength":"4","ratOvr":"85","ratOff":"90","ratDef":"90","ratTalent":"85","ratDiscipline":"80"}},
+{"name":"Ohio State Buckeyes","state":"Ohio","abbreviation":"OHST","rival":"MICH","prestige":"85","headCoach":{"name":"Ryan Day","age":"40","homeState":"New Hampshire","contractYear":"1","startYear":"2019","contractLength":"4","ratOvr":"85","ratOff":"86","ratDef":"86","ratTalent":"85","ratDiscipline":"80"}},
 {"name":"Michigan Wolverines","state":"Michigan","abbreviation":"MICH","rival":"OHST","prestige":"80","headCoach":{"name":"Jim Harbaugh","age":"55","homeState":"Michigan","contractYear":"5","startYear":"2015","contractLength":"8","ratOvr":"80","ratOff":"80","ratDef":"85","ratTalent":"80","ratDiscipline":"82"}},
 {"name":"Wisconsin Badgers","state":"Wisconsin","abbreviation":"WISC","rival":"MINN","prestige":"80","headCoach":{"name":"Paul Chryst","age":"53","homeState":"Wisconsin","contractYear":"6","startYear":"2014","contractLength":"11","ratOvr":"85","ratOff":"88","ratDef":"81","ratTalent":"87","ratDiscipline":"92"}},
 {"name":"Michigan State Spartans","state":"Michigan","abbreviation":"MIST","rival":"IOWA","prestige":"75","headCoach":{"name":"Mark Dantonio","age":"63","homeState":"South Carolina","contractYear":"13","startYear":"2007","contractLength":"16","ratOvr":"90","ratOff":"81","ratDef":"96","ratTalent":"88","ratDiscipline":"78"}},
