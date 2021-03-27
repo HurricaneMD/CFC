@@ -7,7 +7,7 @@
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
-						"age": "35",
+						"age": "46",
 						"cumulativePrestige": "0",
 						"homeState": "Louisiana",
 						"ratPot": "88",
@@ -65,7 +65,7 @@
 						"hometown": "Westminster Station",
 						"ratTalent": "88",
 						"baselinePrestige": "90",
-						"coachingAbility": "75",
+						"coachingAbility": "65",
 						"name": "Va Cant",
 						"contractYear": "0"
 					},
@@ -87,7 +87,7 @@
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
-						"age": "42",
+						"age": "49",
 						"ratOff": "78",
 						"cumulativePrestige": "0",
 						"ratDef": "69",
@@ -211,7 +211,7 @@
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
-						"age": "37",
+						"age": "47",
 						"cumulativePrestige": "0",
 						"homeState": "Ohio",
 						"ratPot": "78",
@@ -225,7 +225,7 @@
 					"defCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
-						"age": "45",
+						"age": "50",
 						"cumulativePrestige": "0",
 						"homeState": "Missouri",
 						"ratPot": "81",
@@ -606,7 +606,7 @@
 						"age": "37",
 						"ratOff": "80",
 						"cumulativePrestige": "0",
-						"ratDef": "87",
+						"ratDef": "85",
 						"homeState": "New Mexico",
 						"ratPot": "85",
 						"hometown": "Artesia",
@@ -705,7 +705,7 @@
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
-						"age": "47",
+						"age": "52",
 						"ratOff": "70",
 						"cumulativePrestige": "0",
 						"ratDef": "64",
@@ -807,7 +807,7 @@
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
-						"age": "50",
+						"age": "55",
 						"ratOff": "68",
 						"cumulativePrestige": "0",
 						"ratDef": "58",
@@ -960,7 +960,7 @@
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
-						"age": "36",
+						"age": "42",
 						"ratOff": "64",
 						"cumulativePrestige": "0",
 						"ratDef": "66",
@@ -1068,7 +1068,7 @@
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
-						"age": "56",
+						"age": "46",
 						"ratOff": "69",
 						"cumulativePrestige": "0",
 						"ratDef": "67",
@@ -1374,7 +1374,7 @@
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
-						"age": "57",
+						"age": "50",
 						"ratOff": "63",
 						"cumulativePrestige": "0",
 						"ratDef": "60",
@@ -1476,7 +1476,7 @@
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
-						"age": "39",
+						"age": "49",
 						"ratOff": "62",
 						"cumulativePrestige": "0",
 						"ratDef": "65",
@@ -1527,7 +1527,7 @@
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
-						"age": "58",
+						"age": "53",
 						"ratOff": "51",
 						"cumulativePrestige": "0",
 						"ratDef": "74",
@@ -1550,7 +1550,7 @@
 		{
 			"confTeams": [{
 					"abbreviation": "UT",
-					"prestige": "91",
+					"prestige": "88",
 					"hexColor": "#BF5700",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -1635,7 +1635,7 @@
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
-						"age": "34",
+						"age": "54",
 						"ratOff": "66",
 						"cumulativePrestige": "0",
 						"ratDef": "71",
@@ -1686,7 +1686,7 @@
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
-						"age": "43",
+						"age": "49",
 						"ratOff": "64",
 						"cumulativePrestige": "0",
 						"ratDef": "58",
@@ -1839,7 +1839,7 @@
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
-						"age": "44",
+						"age": "51",
 						"ratOff": "69",
 						"cumulativePrestige": "0",
 						"ratDef": "70",
@@ -2100,7 +2100,7 @@
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
-						"age": "34",
+						"age": "51",
 						"ratOff": "75",
 						"cumulativePrestige": "0",
 						"ratDef": "70",
@@ -2202,7 +2202,7 @@
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
-						"age": "43",
+						"age": "49",
 						"ratOff": "70",
 						"cumulativePrestige": "0",
 						"ratDef": "75",
@@ -2304,7 +2304,7 @@
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
-						"age": "48",
+						"age": "56",
 						"ratOff": "66",
 						"cumulativePrestige": "0",
 						"ratDef": "61",
@@ -2406,7 +2406,7 @@
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
-						"age": "56",
+						"age": "46",
 						"ratOff": "72",
 						"cumulativePrestige": "0",
 						"ratDef": "67",
@@ -2508,7 +2508,7 @@
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
-						"age": "43",
+						"age": "55",
 						"ratOff": "57",
 						"cumulativePrestige": "0",
 						"ratDef": "61",
@@ -2530,7 +2530,7 @@
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
-						"age": "46",
+						"age": "36",
 						"cumulativePrestige": "0",
 						"homeState": "Vermont",
 						"ratPot": "52",
@@ -2544,7 +2544,7 @@
 					"defCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
-						"age": "45",
+						"age": "50",
 						"cumulativePrestige": "0",
 						"homeState": "Georgia",
 						"ratPot": "58",
@@ -2594,21 +2594,21 @@
 						"hometown": "Tyndall",
 						"ratTalent": "56",
 						"baselinePrestige": "80",
-						"coachingAbility": "81",
+						"coachingAbility": "77",
 						"name": "Tony Elliot",
 						"contractYear": "0"
 					},
 					"defCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
-						"age": "38",
+						"age": "48",
 						"cumulativePrestige": "0",
 						"homeState": "Washington",
 						"ratPot": "65",
 						"hometown": "Toppenish",
 						"ratTalent": "71",
 						"baselinePrestige": "80",
-						"coachingAbility": "79",
+						"coachingAbility": "80",
 						"name": "Brent Venables",
 						"contractYear": "0"
 					},
@@ -2633,7 +2633,7 @@
 				},
 				{
 					"abbreviation": "ND",
-					"prestige": "91",
+					"prestige": "88",
 					"hexColor": "#C99700",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -2663,11 +2663,11 @@
 						"name": "Marcus Freeman",
 						"contractYear": "0"
 					},
-					"rival": "WAKE",
+					"rival": "CIN",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
-						"age": "32",
+						"age": "55",
 						"ratOff": "65",
 						"cumulativePrestige": "0",
 						"ratDef": "70",
@@ -2765,7 +2765,7 @@
 						"name": "Lyle Hemphill",
 						"contractYear": "0"
 					},
-					"rival": "ND",
+					"rival": "DUKE",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -2784,57 +2784,59 @@
 					"name": "Wake Forest Demon Deacons",
 					"state": "North Carolina"
 				},
-				{
-					"abbreviation": "FSU",
-					"prestige": "70",
-					"hexColor": "#782F40",
+{
+					"abbreviation": "VT",
+					"prestige": "75",
+					"hexColor": "#630031",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
-						"age": "58",
+						"age": "40",
 						"cumulativePrestige": "0",
-						"homeState": "Indiana",
-						"ratPot": "93",
-						"hometown": "Kokomo",
-						"ratTalent": "68",
-						"baselinePrestige": "70",
-						"coachingAbility": "70",
-						"name": "Kenny Dillingham",
+						"homeState": "California",
+						"ratPot": "57",
+						"hometown": "Egger Highlands",
+						"ratTalent": "86",
+						"baselinePrestige": "65",
+						"coachingAbility": "62",
+						"name": "Brad Cornelsen",
 						"contractYear": "0"
 					},
 					"defCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
-						"age": "38",
+						"age": "42",
 						"cumulativePrestige": "0",
-						"homeState": "District of Columbia",
-						"ratPot": "74",
-						"hometown": "Southwest Washington",
-						"ratTalent": "72",
-						"baselinePrestige": "70",
-						"coachingAbility": "67",
-						"name": "Adam Fuller",
+						"homeState": "Arkansas",
+						"ratPot": "69",
+						"hometown": "Mount Pleasant",
+						"ratTalent": "45",
+						"baselinePrestige": "65",
+						"coachingAbility": "60",
+						"name": "Justin Hamilton",
 						"contractYear": "0"
 					},
-					"rival": "UMD",
+					"rival": "UVA",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
-						"age": "56",
-						"ratOff": "64",
+						"age": "58",
+						"ratOff": "70",
 						"cumulativePrestige": "0",
-						"ratDef": "69",
-						"homeState": "Pennsylvania",
-						"ratPot": "59",
-						"hometown": "Erwinna",
-						"ratTalent": "83",
-						"baselinePrestige": "70",
-						"name": "Mike Norvell",
+						"ratDef": "70",
+						"homeState": "New Jersey",
+						"ratPot": "94",
+						"hometown": "Avenel",
+						"ratTalent": "76",
+						"baselinePrestige": "65",
+						"name": "Justin Fuente",
 						"contractYear": "0"
 					},
-					"name": "Florida State Seminoles",
-					"state": "Florida"
+					"name": "Virginia Tech Hokies",
+					"state": "Virginia"
 				},
+
+				
 				{
 					"abbreviation": "SCAR",
 					"prestige": "55",
@@ -2918,7 +2920,7 @@
 						"name": "Nick Howell",
 						"contractYear": "0"
 					},
-					"rival": "DUKE",
+					"rival": "VT",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -2988,57 +2990,59 @@
 					"name": "North Carolina State Wolfpack",
 					"state": "North Carolina"
 				},
-				{
-					"abbreviation": "UMD",
-					"prestige": "45",
-					"hexColor": "#E03A3E",
+{
+					"abbreviation": "CIN",
+					"prestige": "65",
+					"hexColor": "#000000",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
-						"age": "55",
+						"age": "41",
 						"cumulativePrestige": "0",
-						"homeState": "Maine",
-						"ratPot": "85",
-						"hometown": "Mechanic Falls",
-						"ratTalent": "58",
-						"baselinePrestige": "50",
-						"coachingAbility": "71",
-						"name": "Dan Enos",
+						"homeState": "Iowa",
+						"ratPot": "69",
+						"hometown": "Runnells",
+						"ratTalent": "88",
+						"baselinePrestige": "75",
+						"coachingAbility": "76",
+						"name": "Mike Denbrock",
 						"contractYear": "0"
 					},
 					"defCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
-						"age": "43",
+						"age": "63",
 						"cumulativePrestige": "0",
-						"homeState": "Iowa",
-						"ratPot": "67",
-						"hometown": "Eagle Grove",
-						"ratTalent": "57",
-						"baselinePrestige": "50",
-						"coachingAbility": "64",
-						"name": "Brian Stewart",
+						"homeState": "Ohio",
+						"ratPot": "94",
+						"hometown": "Youngstown",
+						"ratTalent": "79",
+						"baselinePrestige": "75",
+						"coachingAbility": "61",
+						"name": "Mike Tressel",
 						"contractYear": "0"
 					},
-					"rival": "FSU",
+					"rival": "ND",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
-						"age": "53",
+						"age": "41",
 						"ratOff": "67",
 						"cumulativePrestige": "0",
-						"ratDef": "62",
-						"homeState": "Connecticut",
-						"ratPot": "50",
-						"hometown": "Bristol",
-						"ratTalent": "61",
-						"baselinePrestige": "50",
-						"name": "Mike Locksley",
+						"ratDef": "63",
+						"homeState": "Georgia",
+						"ratPot": "58",
+						"hometown": "Fort Valley",
+						"ratTalent": "90",
+						"baselinePrestige": "75",
+						"name": "Luke Fickell",
 						"contractYear": "0"
 					},
-					"name": "Maryland Terrapins",
-					"state": "Maryland"
+					"name": "Cincinnati Bearcats",
+					"state": "Ohio"
 				},
+
+				
 				{
 					"abbreviation": "DUKE",
 					"prestige": "50",
@@ -3071,11 +3075,11 @@
 						"name": "Ben Albert",
 						"contractYear": "0"
 					},
-					"rival": "UVA",
+					"rival": "WAKE",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
-						"age": "46",
+						"age": "58",
 						"ratOff": "60",
 						"cumulativePrestige": "0",
 						"ratDef": "52",
@@ -3092,7 +3096,7 @@
 				}
 			],
 			"confFullName": "Atlantic Coast Conference",
-			"confPrestige": "67",
+			"confPrestige": "75",
 			"confName": "ACC"
 		},
 		{
@@ -3128,7 +3132,7 @@
 						"name": "Manuelo Diez",
 						"contractYear": "0"
 					},
-					"rival": "UL",
+					"rival": "FSU",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -3144,60 +3148,62 @@
 						"name": "Manny Diaz",
 						"contractYear": "0"
 					},
-					"name": "Miami FL Hurricanes",
+					"name": "Miami Hurricanes",
 					"state": "Florida"
 				},
-				{
-					"abbreviation": "CIN",
-					"prestige": "65",
-					"hexColor": "#000000",
+{
+					"abbreviation": "UMD",
+					"prestige": "45",
+					"hexColor": "#E03A3E",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
-						"age": "41",
+						"age": "55",
 						"cumulativePrestige": "0",
-						"homeState": "Iowa",
-						"ratPot": "69",
-						"hometown": "Runnells",
-						"ratTalent": "88",
-						"baselinePrestige": "75",
-						"coachingAbility": "76",
-						"name": "Mike Denbrock",
+						"homeState": "Maine",
+						"ratPot": "85",
+						"hometown": "Mechanic Falls",
+						"ratTalent": "58",
+						"baselinePrestige": "50",
+						"coachingAbility": "71",
+						"name": "Dan Enos",
 						"contractYear": "0"
 					},
 					"defCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
-						"age": "63",
+						"age": "43",
 						"cumulativePrestige": "0",
-						"homeState": "Florida",
-						"ratPot": "94",
-						"hometown": "Boca Grande",
-						"ratTalent": "79",
-						"baselinePrestige": "75",
-						"coachingAbility": "61",
-						"name": "Mike Tressel",
+						"homeState": "Iowa",
+						"ratPot": "67",
+						"hometown": "Eagle Grove",
+						"ratTalent": "57",
+						"baselinePrestige": "50",
+						"coachingAbility": "64",
+						"name": "Brian Stewart",
 						"contractYear": "0"
 					},
-					"rival": "PITT",
+					"rival": "BC",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
-						"age": "41",
+						"age": "53",
 						"ratOff": "67",
 						"cumulativePrestige": "0",
-						"ratDef": "63",
-						"homeState": "Georgia",
-						"ratPot": "58",
-						"hometown": "Fort Valley",
-						"ratTalent": "90",
-						"baselinePrestige": "75",
-						"name": "Luke Fickell",
+						"ratDef": "62",
+						"homeState": "Connecticut",
+						"ratPot": "50",
+						"hometown": "Bristol",
+						"ratTalent": "61",
+						"baselinePrestige": "50",
+						"name": "Mike Locksley",
 						"contractYear": "0"
 					},
-					"name": "Cincinnati Bearcats",
-					"state": "Ohio"
+					"name": "Maryland Terrapins",
+					"state": "Maryland"
 				},
+
+				
 				{
 					"abbreviation": "UL",
 					"prestige": "65",
@@ -3230,7 +3236,7 @@
 						"name": "Bryan Brown",
 						"contractYear": "0"
 					},
-					"rival": "UM",
+					"rival": "USF",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -3281,7 +3287,7 @@
 						"name": "Randy Bates",
 						"contractYear": "0"
 					},
-					"rival": "CIN",
+					"rival": "WVU",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -3332,7 +3338,7 @@
 						"name": "Jordan Lesley",
 						"contractYear": "0"
 					},
-					"rival": "BC",
+					"rival": "PITT",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -3352,56 +3358,57 @@
 					"state": "West Virginia"
 				},
 				{
-					"abbreviation": "VT",
-					"prestige": "75",
-					"hexColor": "#630031",
+					"abbreviation": "FSU",
+					"prestige": "70",
+					"hexColor": "#782F40",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
-						"age": "40",
+						"age": "58",
 						"cumulativePrestige": "0",
-						"homeState": "California",
-						"ratPot": "57",
-						"hometown": "Egger Highlands",
-						"ratTalent": "86",
-						"baselinePrestige": "65",
-						"coachingAbility": "62",
-						"name": "Brad Cornelsen",
+						"homeState": "Indiana",
+						"ratPot": "93",
+						"hometown": "Kokomo",
+						"ratTalent": "68",
+						"baselinePrestige": "70",
+						"coachingAbility": "70",
+						"name": "Kenny Dillingham",
 						"contractYear": "0"
 					},
 					"defCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
-						"age": "42",
+						"age": "38",
 						"cumulativePrestige": "0",
-						"homeState": "Arkansas",
-						"ratPot": "69",
-						"hometown": "Mount Pleasant",
-						"ratTalent": "45",
-						"baselinePrestige": "65",
-						"coachingAbility": "60",
-						"name": "Justin Hamilton",
+						"homeState": "District of Columbia",
+						"ratPot": "74",
+						"hometown": "Southwest Washington",
+						"ratTalent": "72",
+						"baselinePrestige": "70",
+						"coachingAbility": "67",
+						"name": "Adam Fuller",
 						"contractYear": "0"
 					},
-					"rival": "USF",
+					"rival": "UM",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
-						"age": "58",
-						"ratOff": "70",
+						"age": "47",
+						"ratOff": "64",
 						"cumulativePrestige": "0",
-						"ratDef": "70",
-						"homeState": "New Jersey",
-						"ratPot": "94",
-						"hometown": "Avenel",
-						"ratTalent": "76",
-						"baselinePrestige": "65",
-						"name": "Justin Fuente",
+						"ratDef": "64",
+						"homeState": "Pennsylvania",
+						"ratPot": "59",
+						"hometown": "Erwinna",
+						"ratTalent": "78",
+						"baselinePrestige": "70",
+						"name": "Mike Norvell",
 						"contractYear": "0"
 					},
-					"name": "Virginia Tech Hokies",
-					"state": "Virginia"
+					"name": "Florida State Seminoles",
+					"state": "Florida"
 				},
+
 				{
 					"abbreviation": "CUSE",
 					"prestige": "45",
@@ -3536,7 +3543,7 @@
 						"name": "Tem Lukabu",
 						"contractYear": "0"
 					},
-					"rival": "WVU",
+					"rival": "UMD",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -3587,7 +3594,7 @@
 						"name": "Glenn Spencer",
 						"contractYear": "0"
 					},
-					"rival": "VT",
+					"rival": "UL",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -3608,7 +3615,7 @@
 				}
 			],
 			"confFullName": "Big East Conference",
-			"confPrestige": "60",
+			"confPrestige": "75",
 			"confName": "BEC"
 		},
 		{
